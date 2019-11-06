@@ -1,0 +1,14 @@
+.current-salary {
+    padding: 16px 12px 16px 10px;
+    background-color: #222d32;
+    color: #ffffff;
+    font-weight: 700;
+}
+.current-salary i.fa.fa-money::before {
+    margin-right: 10px !important;
+}
+a.btn.btn-success i.fa.fa-map-pin,
+a.btn.btn-success i.fa.fa-bank,
+a.btn.btn-success i.fa.fa-user {
+    margin-right: 5px;
+}
