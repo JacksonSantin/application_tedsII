@@ -18,6 +18,18 @@
           return $this->db->where(array('id_user'=>$id))->delete($this->tabelaNome);
       }
 
+      public function set_newUser($path,$registro){ 
+        $data = array( 
+            'full_name' => $registro['full_name'], 
+            'income' => $registro['income'], 
+            'user_u' => $registro['user_u'], 
+            'pass' => $registro['pass'], 
+            'image'=>$path 
+        ); 
+    
+        return $this->db->insert('user_cad', $data); 
+    }
+
       public function cadastrar($id=null){
           $registro = $this->input->post();
           //criptografando a pass

@@ -15,6 +15,7 @@
                 <th>Nome Completo</th>
                 <th>Renda Mensal</th>
                 <th>usuário</th>
+                <th>Foto</th>
                 <th class="col-md-1">Ações</th>
               </thead>
               <tbody>
@@ -24,6 +25,7 @@
                     <td><?= $item['full_name'];?></td>
                     <td><?= $item['income'];?></td>
                     <td><?= $item['user_u'];?></td>
+                    <td><?= $item['image'];?></td>
                     <td>
                         <a class="btn btn-xs btn-info" href="<?= site_url('user/cadastrar/'.$item['id_user']); ?>">
                             <i class="fa fa-fw fa-edit"></i>

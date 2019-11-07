@@ -11,6 +11,7 @@
                 </div>
           <?php } ?>
 
+            <?php echo form_open_multipart('user/do_upload');?>
 			<?php echo form_open($acao); ?>
 
             <div class="form-group">
@@ -25,6 +26,11 @@
                 <input id="income" class="form-control" type="text" name="income"
                 value="<?= set_value('income', $registro['income']); ?>"
                 placeholder="Renda Mensal" required>
+            </div>
+
+            <div class="form-group">
+                <label for="image">Foto</label>
+                <input id="image" class="form-control" type="file" name="image">
             </div>
 
             <div class="form-group">

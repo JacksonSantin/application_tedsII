@@ -15,13 +15,31 @@
         $this->template->load('template', 'user/viewUser', $dados);
       }
 
+      public function do_upload()
+        {
+            $config['upload_path']          = './arquivos/foto_cad_pessoa/';
+            $config['allowed_types']        = 'jpg|jpeg|png';
+
+
+            $this->upload->initialize($config);
+            if (!$this->upload->do_upload('image'))
+            {
+                $error = array('error' =>$this->upload->display_error());
+                $this->load->view('user/viewUser', $error);
+            }
+            else
+            {
+                $this->user_model->set_newUser($this->upload->data('full_path'),$this->input->post());
+                $this->load->view('user/viewUser');
+            }
+        }
+
       public function remover($id){
         if(!$this->user_model->remover($id)){
             die('Erro ao tentar remover');
         }
         $this->index('user/index');
     }
-
 
       public function cadastrar($id=null){
           $this->load->helper('form');
@@ -35,6 +53,7 @@
 
           $this->form_validation->set_rules('full_name', 'Nome Completo', 'required');
           $this->form_validation->set_rules('income', 'Renda', 'required');
+          $this->form_validation->set_rules('image', 'Foto', 'required');
           $this->form_validation->set_rules('user_u', 'Usuário', $rule_nome);
         
           if($id == null){
@@ -63,6 +82,7 @@
               redirect('user/index'); //redireciona o fluxo da aplicação
           }
 
+        
 
       }
   }
