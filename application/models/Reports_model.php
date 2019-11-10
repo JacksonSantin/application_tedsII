@@ -22,10 +22,13 @@
             $query = $this->db->get();
             return $query->result_array(); //todos os registros
        }
-       public function getSalario(){
+       public function getSalario($salaryIni, $salaryFin){
         $this->db->select('s.*, u.full_name as user_cad');
         $this->db->from('salary s');
         $this->db->join('user_cad u', 's.user=u.id_user');
+
+        $where = array('s.salary>='=>$salaryIni, 's.salary<='=>$salaryFin);
+        $this->db->where($where);
         $query = $this->db->get();
         return $query->result_array(); //todos os registros
        }

@@ -22,11 +22,11 @@
         $this->template->load('template', 'reports/formLocais', $dados);
       }
       
-      public function formSalario(){
+      public function formSalarioRel(){
         $dados['titulo'] = "Relatório de Salários por Usuário";
         $this->load->helper('form');
         $this->load->library('form_validation');
-        $this->template->load('template', 'reports/formSalario', $dados);
+        $this->template->load('template', 'reports/formSalarioRel', $dados);
       }
       
       public function formUsuarios(){
@@ -51,8 +51,10 @@
         $this->load->view('reports/locaisPDF', $dados);
       }
       public function salario() {
+        $salaryIni   = $this->input->post('salario_inicial');
+        $salaryFin   = $this->input->post('salario_final');
         $dados['titulo'] = "Salário";
-        $dados['data']   = $this->reports_model->getSalario($dados);
+        $dados['data']   = $this->reports_model->getSalario($salaryIni, $salaryFin);
         $this->load->library('MY_FPDF');
         $this->load->view('reports/salarioPDF', $dados);
       }

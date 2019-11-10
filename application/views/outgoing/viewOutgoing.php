@@ -4,6 +4,9 @@
       <a class="btn btn-primary" href="<?= site_url('outgoing/cadastrar'); ?>">
         <i class="fa fa-fw fa-plus"></i>Adicionar
       </a>
+      <a class="btn btn-success" target="_blank" href="<?= site_url('reports/formGastoPeriodo'); ?>">
+        <i class="fa fa-bank"></i>Relatório
+      </a>
         <div class="box">
           <div class="box-body">
             <table id="tabelaDataTable" class="table table-hover table-striped">

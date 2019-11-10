@@ -24,7 +24,7 @@
             'income' => $registro['income'], 
             'user_u' => $registro['user_u'], 
             'pass' => $registro['pass'], 
-            'image'=>$path 
+            'image' => $path 
         ); 
     
         return $this->db->insert('user_cad', $data); 

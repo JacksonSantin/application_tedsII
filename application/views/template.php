@@ -175,7 +175,7 @@ desired effect
                 <i class="fa fa-map-pin"></i> <span>Locais</span></a>
             </li>
             <li>
-                <a href="<?= site_url('reports/salario'); ?>" target="_blank">
+                <a href="<?= site_url('reports/formSalarioRel'); ?>">
                 <i class="fa fa-bank"></i> <span>Salário</span></a>
             </li>
             <li>

@@ -5,7 +5,7 @@
       <a class="btn btn-primary" href="<?= site_url('salary/cadastrar'); ?>">
         <i class="fa fa-fw fa-plus"></i>Adicionar
       </a>
-      <a class="btn btn-success" target="_blank" href="<?= site_url('reports/salario'); ?>">
+      <a class="btn btn-success" target="_blank" href="<?= site_url('reports/formSalarioRel'); ?>">
         <i class="fa fa-bank"></i>Relatório
       </a>
         <div class="box">

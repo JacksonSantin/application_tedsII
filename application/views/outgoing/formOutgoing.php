@@ -54,7 +54,8 @@
               </select>
             </div>
 
-            <button class="btn btn-success" type="submit">Enviar</button>
+            <button class="btn btn-success" type="submit"><i class="fa fa-send"></i> Enviar</button>
+            <button class="btn btn-warning" onclick="JavaScript: window.history.back();"><i class="fa fa-remove"></i> Cancelar</button>
           </form>
         </div>
     </div>

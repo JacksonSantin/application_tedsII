@@ -11,16 +11,16 @@
                 </div>
           <?php } ?>
 
-			<?php echo form_open($acao); ?>
-					
+          <?php echo form_open('reports/salario'); ?>
             <div class="form-group">
-                <label for="place">Local</label>
-                <input id="place" class="form-control" type="place" name="place"
-                value="<?= set_value('place', $registro['place']); ?>"
-                placeholder="Informe um local" required>
+              <label for="idsalario">Salário Inicial</label>
+              <input class="form-control" type="text" name="salario_inicial" value="<?= set_value('salary', $registro['salary']); ?>">
             </div>
-
-            <button class="btn btn-success" type="submit"><i class="fa fa-send"></i> Enviar</button>
+            <div class="form-group">
+              <label for="idsalario">Salário Final</label>
+              <input class="form-control" type="text" name="salario_final" value="<?= set_value('salary', $registro['salary']); ?>">
+            </div>
+            <button class="btn btn-success" type="submit" formtarget="_blank"><i class="fa fa-send"></i> Enviar</button>
             <button class="btn btn-warning" onclick="JavaScript: window.history.back();"><i class="fa fa-remove"></i> Cancelar</button>
           </form>
         </div>

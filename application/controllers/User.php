@@ -24,8 +24,8 @@
             $this->upload->initialize($config);
             if (!$this->upload->do_upload('image'))
             {
-                $error = array('error' =>$this->upload->display_error());
-                $this->load->view('user/viewUser', $error);
+                $error = array('error' =>$this->upload->display_errors());
+                $this->load->view('user/formUser', $error);
             }
             else
             {
