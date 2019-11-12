@@ -17,7 +17,7 @@
                 <label for="place">Local</label>
                 <input id="place" class="form-control" type="place" name="place"
                 value="<?= set_value('place', $registro['place']); ?>"
-                placeholder="Informe um local" required>
+                placeholder="Informe um local">
             </div>
 
             <button class="btn btn-success" type="submit"><i class="fa fa-send"></i> Enviar</button>

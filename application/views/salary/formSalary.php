@@ -17,7 +17,7 @@
                 <label for="salary">Salário</label>
                 <input id="salary" class="form-control" type="salary" name="salary"
                 value="<?= set_value('salary', $registro['salary']); ?>"
-                placeholder="Informe seu salário" required>
+                placeholder="Informe seu salário" >
             </div>
 
             <div class="form-group">

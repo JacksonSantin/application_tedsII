@@ -17,21 +17,21 @@
                 <label for="outgoing">Gasto</label>
                 <input id="outgoing" class="form-control" type="text" name="outgoing"
                 value="<?= set_value('outgoing', $registro['outgoing']); ?>" 
-                placeholder="Informe o Gasto" required>
+                placeholder="Informe o Gasto" >
             </div>
 
             <div class="form-group">
                 <label for="outdate">Data do Gasto</label>
                 <input id="outdate" class="form-control" type="date" name="outdate"
                 value="<?= set_value('outdate', $registro['outdate']); ?>"
-                placeholder="Data do gasto" required>
+                placeholder="Data do gasto" >
             </div>
 
             <div class="form-group">
                 <label for="rating">Valor</label>
                 <input id="rating" class="form-control" type="text" name="rating"
                 value="<?= set_value('rating', $registro['rating']); ?>"
-                placeholder="Informe o valor gasto" required>
+                placeholder="Informe o valor gasto" >
             </div>
 
             <div class="form-group">

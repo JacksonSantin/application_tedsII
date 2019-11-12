@@ -33,7 +33,7 @@
           $dados['titulo'] = "Cadastro de Salário";
 
           //definição de regras para o formulário
-          $this->form_validation->set_rules('salary', 'Local', 'required');
+          $this->form_validation->set_rules('salary', 'Salário', 'required');
           $this->form_validation->set_rules('id_user', 'Usuário', '');
         
           //acao dinamica que sera enviada para a view
