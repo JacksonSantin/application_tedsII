@@ -18,26 +18,25 @@
           return $this->db->where(array('id_user'=>$id))->delete($this->tabelaNome);
       }
 
-      public function set_newUser($path,$registro){ 
-        $data = array( 
-            'full_name' => $registro['full_name'], 
-            'income' => $registro['income'], 
-            'user_u' => $registro['user_u'], 
-            'pass' => $registro['pass'], 
-            'image' => $path 
-        ); 
-    
-        return $this->db->insert('user_cad', $data); 
+      public function cadastrar($path,$registro, $id=null){ 
+        $registro['image'] = $path;
+
+        if($id==null){ //registro novo
+            $registro['pass'] = md5($registro['pass']);
+            return $this->db->insert($this->tabelaNome, $registro);
+        }
+
+        return $this->db->where(array('id_user'=>$id))->update($this->tabelaNome,$registro);
     }
 
-      public function cadastrar($id=null){
-          $registro = $this->input->post();
-          //criptografando a pass
-          if($id==null){ //registro novo
-              $registro['pass'] = md5($registro['pass']);
-              return $this->db->insert($this->tabelaNome, $registro);
-          }
-          return $this->db->where(array('id_user'=>$id))->update($this->tabelaNome,$registro);
-      }
+    //   public function cadastrar($id=null){
+    //       $registro = $this->input->post();
+    //       //criptografando a pass
+    //       if($id==null){ //registro novo
+    //           $registro['pass'] = md5($registro['pass']);
+    //           return $this->db->insert($this->tabelaNome, $registro);
+    //       }
+    //       return $this->db->where(array('id_user'=>$id))->update($this->tabelaNome,$registro);
+    //   }
   }
  ?>

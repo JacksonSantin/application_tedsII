@@ -10,9 +10,18 @@
                     <?php echo validation_errors(); //mostra os erros?>
                 </div>
           <?php } ?>
+          <?php
+              //verificando se o form_validation retornou erros
+              if(isset($error)){ ?>
+                <div class="alert alert-danger alert-dismissible">
+                    <button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>
+                    <h4><i class="icon fa fa-ban"></i> Erro!</h4>
+                    <?php echo $error; //mostra os erros?>
+                </div>
+          <?php } ?>
 
-            <?php echo form_open_multipart('user/cadastrar');?>
-			<?php echo form_open($acao); ?>
+            <?php echo form_open_multipart($acao); ?>
+            
 
             <div class="form-group">
                 <label for="full_name">Nome Completo</label>
@@ -28,6 +37,7 @@
                 placeholder="Renda Mensal" >
             </div>
 
+            
             <div class="form-group">
                 <label for="image">Foto</label>
                 <input id="image" class="form-control" type="file" name="image" >
@@ -45,7 +55,7 @@
                     <label for="pass">Senha</label>
                     <input id="pass" class="form-control" type="password" name="pass"
                     value="<?= set_value('pass', $registro['pass']); ?>"
-                    placeholder="Senha" >
+                    placeholder="Senha" required>
                 </div>
             <?php }?>
 
