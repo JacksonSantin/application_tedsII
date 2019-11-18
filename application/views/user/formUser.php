@@ -40,7 +40,11 @@
             
             <div class="form-group">
                 <label for="image">Foto</label>
-                <input id="image" class="form-control" type="file" name="image" >
+                <?if(isset($registro['image'])){?>
+                    <input id="image" class="form-control" type="file" name="image">
+                <?}else{?>
+                    <input id="image" class="form-control" type="text" name="image" value="<?= set_value('image', $registro['image']); ?>" readonly>
+                <?}?>
             </div>
 
             <div class="form-group">
