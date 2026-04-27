@@ -1,0 +1,321 @@
+Authors ordered by first contribution.
+
+John Resig <[removido]>
+Gilles van den Hoven <[removido]>
+Michael Geary <[removido]>
+Stefan Petre <[removido]>
+Yehuda Katz <[removido]>
+Corey Jewett <[removido]>
+Klaus Hartl <[removido]>
+Franck Marcia <[removido]>
+Jörn Zaefferer <[removido]>
+Paul Bakaus <[removido]>
+Brandon Aaron <[removido]>
+Mike Alsup <[removido]>
+Dave Methvin <[removido]>
+Ed Engelhardt <[removido]>
+Sean Catchpole <[removido]>
+Paul Mclanahan <[removido]>
+David Serduke <[removido]>
+Richard D. Worth <[removido]>
+Scott González <[removido]>
+Ariel Flesler <[removido]>
+Jon Evans <[removido]>
+TJ Holowaychuk <[removido]>
+Michael Bensoussan <[removido]>
+Robert Katić <[removido]>
+Louis-Rémi Babé <[removido]>
+Earle Castledine <[removido]>
+Damian Janowski <[removido]>
+Rich Dougherty <[removido]>
+Kim Dalsgaard <[removido]>
+Andrea Giammarchi <[removido]>
+Mark Gibson <[removido]>
+Karl Swedberg <[removido]>
+Justin Meyer <[removido]>
+Ben Alman <[removido]>
+James Padolsey <[removido]>
+David Petersen <[removido]>
+Batiste Bieler <[removido]>
+Alexander Farkas <[removido]>
+Rick Waldron <[removido]>
+Filipe Fortes <[removido]>
+Neeraj Singh <[removido]>
+Paul Irish <[removido]>
+Iraê Carvalho <[removido]>
+Matt Curry <[removido]>
+Michael Monteleone <[removido]>
+Noah Sloan <[removido]>
+Tom Viner <[removido]>
+Douglas Neiner <[removido]>
+Adam J. Sontag <[removido]>
+Dave Reed <[removido]>
+Ralph Whitbeck <[removido]>
+Carl Fürstenberg <[removido]>
+Jacob Wright <[removido]>
+J. Ryan Stinnett <[removido]>
+unknown <[removido]>
+temp01 <[removido]>
+Heungsub Lee <[removido]>
+Colin Snover <[removido]>
+Ryan W Tenney <[removido]>
+Pinhook <[removido]>
+Ron Otten <[removido]>
+Jephte Clain <[removido]>
+Anton Matzneller <[removido]>
+Alex Sexton <[removido]>
+Dan Heberden <[removido]>
+Henri Wiechers <[removido]>
+Russell Holbrook <[removido]>
+Julian Aubourg <[removido]>
+Gianni Alessandro Chiappetta <[removido]>
+Scott Jehl <[removido]>
+James Burke <[removido]>
+Jonas Pfenniger <[removido]>
+Xavi Ramirez <[removido]>
+Jared Grippe <[removido]>
+Sylvester Keil <[removido]>
+Brandon Sterne <[removido]>
+Mathias Bynens <[removido]>
+Timmy Willison <[removido]>
+Corey Frang <[removido]>
+Digitalxero <digitalxero>
+Anton Kovalyov <[removido]>
+David Murdoch <[removido]>
+Josh Varner <[removido]>
+Charles McNulty <[removido]>
+Jordan Boesch <[removido]>
+Jess Thrysoee <[removido]>
+Michael Murray <[removido]>
+Lee Carpenter <[removido]>
+Alexis Abril <[removido]>
+Rob Morgan <[removido]>
+John Firebaugh <[removido]>
+Sam Bisbee <[removido]>
+Gilmore Davidson <[removido]>
+Brian Brennan <[removido]>
+Xavier Montillet <[removido]>
+Daniel Pihlstrom <[removido]>
+Sahab Yazdani <[removido]>
+avaly <[removido]>
+Scott Hughes <[removido]>
+Mike Sherov <[removido]>
+Greg Hazel <[removido]>
+Schalk Neethling <[removido]>
+Denis Knauf <[removido]>
+Timo Tijhof <[removido]>
+Steen Nielsen <[removido]>
+Anton Ryzhov <[removido]>
+Shi Chuan <[removido]>
+Berker Peksag <[removido]>
+Toby Brain <[removido]>
+Matt Mueller <[removido]>
+Justin <[removido]>
+Daniel Herman <[removido]>
+Oleg Gaidarenko <[removido]>
+Richard Gibson <[removido]>
+Rafaël Blais Masson <[removido]>
+cmc3cn <[removido]>
+Joe Presbrey <[removido]>
+Sindre Sorhus <[removido]>
+Arne de Bree <[removido]>
+Vladislav Zarakovsky <[removido]>
+Andrew E Monat <[removido]>
+Oskari <[removido]>
+Joao Henrique de Andrade Bruni <[removido]>
+tsinha <[removido]>
+Matt Farmer <[removido]>
+Trey Hunner <[removido]>
+Jason Moon <[removido]>
+Jeffery To <[removido]>
+Kris Borchers <[removido]>
+Vladimir Zhuravlev <[removido]>
+Jacob Thornton <[removido]>
+Chad Killingsworth <[removido]>
+Nowres Rafid <[removido]>
+David Benjamin <[removido]>
+Uri Gilad <[removido]>
+Chris Faulkner <[removido]>
+Elijah Manor <[removido]>
+Daniel Chatfield <[removido]>
+Nikita Govorov <[removido]>
+Wesley Walser <[removido]>
+Mike Pennisi <[removido]>
+Markus Staab <[removido]>
+Dave Riddle <[removido]>
+Callum Macrae <[removido]>
+Benjamin Truyman <[removido]>
+James Huston <[removido]>
+Erick Ruiz de Chávez <[removido]>
+David Bonner <[removido]>
+Akintayo Akinwunmi <[removido]>
+MORGAN <[removido]>
+Ismail Khair <[removido]>
+Carl Danley <[removido]>
+Mike Petrovich <[removido]>
+Greg Lavallee <[removido]>
+Daniel Gálvez <[removido]>
+Sai Lung Wong <[removido]>
+Tom H Fuertes <[removido]>
+Roland Eckl <[removido]>
+Jay Merrifield <[removido]>
+Allen J Schmidt Jr <[removido]>
+Jonathan Sampson <[removido]>
+Marcel Greter <[removido]>
+Matthias Jäggli <[removido]>
+David Fox <[removido]>
+Yiming He <[removido]>
+Devin Cooper <[removido]>
+Paul Ramos <[removido]>
+Rod Vagg <[removido]>
+Bennett Sorbo <[removido]>
+Sebastian Burkhard <[removido]>
+Zachary Adam Kaplan <[removido]>
+nanto_vi <[removido]>
+nanto <[removido]>
+Danil Somsikov <[removido]>
+Ryunosuke SATO <[removido]>
+Jean Boussier <[removido]>
+Adam Coulombe <[removido]>
+Andrew Plummer <[removido]>
+Mark Raddatz <[removido]>
+Isaac Z. Schlueter <[removido]>
+Karl Sieburg <[removido]>
+Pascal Borreli <[removido]>
+Nguyen Phuc Lam <[removido]>
+Dmitry Gusev <[removido]>
+Michał Gołębiowski-Owczarek <[removido]>
+Li Xudong <[removido]>
+Steven Benner <[removido]>
+Tom H Fuertes <[removido]>
+Renato Oliveira dos Santos <[removido]>
+ros3cin <[removido]>
+Jason Bedard <[removido]>
+Kyle Robinson Young <[removido]>
+Chris Talkington <[removido]>
+Eddie Monge <[removido]>
+Terry Jones <[removido]>
+Jason Merino <[removido]>
+Jeremy Dunck <[removido]>
+Chris Price <[removido]>
+Guy Bedford <[removido]>
+Amey Sakhadeo <[removido]>
+Mike Sidorov <[removido]>
+Anthony Ryan <[removido]>
+Dominik D. Geyer <[removido]>
+George Kats <[removido]>
+Lihan Li <[removido]>
+Ronny Springer <[removido]>
+Chris Antaki <[removido]>
+Marian Sollmann <[removido]>
+njhamann <[removido]>
+Ilya Kantor <[removido]>
+David Hong <[removido]>
+John Paul <[removido]>
+Jakob Stoeck <[removido]>
+Christopher Jones <[removido]>
+Forbes Lindesay <[removido]>
+S. Andrew Sheppard <[removido]>
+Leonardo Balter <[removido]>
+Roman Reiß <[removido]>
+Benjy Cui <[removido]>
+Rodrigo Rosenfeld Rosas <[removido]>
+John Hoven <[removido]>
+Philip Jägenstedt <[removido]>
+Christian Kosmowski <[removido]>
+Liang Peng <[removido]>
+TJ VanToll <[removido]>
+Senya Pugach <[removido]>
+Aurelio De Rosa <[removido]>
+Nazar Mokrynskyi <[removido]>
+Amit Merchant <[removido]>
+Jason Bedard <[removido]>
+Arthur Verschaeve <[removido]>
+Dan Hart <[removido]>
+Bin Xin <[removido]>
+David Corbacho <[removido]>
+Veaceslav Grimalschi <[removido]>
+Daniel Husar <[removido]>
+Frederic Hemberger <[removido]>
+Ben Toews <[removido]>
+Aditya Raghavan <[removido]>
+Victor Homyakov <[removido]>
+Shivaji Varma <[removido]>
+Nicolas HENRY <[removido]>
+Anne-Gaelle Colom <[removido]>
+George Mauer <[removido]>
+Leonardo Braga <[removido]>
+Stephen Edgar <[removido]>
+Thomas Tortorini <[removido]>
+Winston Howes <[removido]>
+Jon Hester <[removido]>
+Alexander O'Mara <[removido]>
+Bastian Buchholz <[removido]>
+Arthur Stolyar <[removido]>
+Calvin Metcalf <[removido]>
+Mu Haibao <[removido]>
+Richard McDaniel <[removido]>
+Chris Rebert <[removido]>
+Gabriel Schulhof <[removido]>
+Gilad Peleg <[removido]>
+Martin Naumann <[removido]>
+Marek Lewandowski <[removido]>
+Bruno Pérel <[removido]>
+Reed Loden <[removido]>
+Daniel Nill <[removido]>
+Yongwoo Jeon <[removido]>
+Sean Henderson <[removido]>
+Richard Kraaijenhagen <[removido]>
+Connor Atherton <[removido]>
+Gary Ye <[removido]>
+Christian Grete <[removido]>
+Liza Ramo <[removido]>
+Julian Alexander Murillo <[removido]>
+Joelle Fleurantin <[removido]>
+Jae Sung Park <[removido]>
+Jun Sun <[removido]>
+Josh Soref <[removido]>
+Henry Wong <[removido]>
+Jon Dufresne <[removido]>
+Martijn W. van der Lee <[removido]>
+Devin Wilson <[removido]>
+Steve Mao <[removido]>
+Zack Hall <[removido]>
+Bernhard M. Wiedemann <[removido]>
+Todor Prikumov <[removido]>
+Jha Naman <[removido]>
+William Robinet <[removido]>
+Alexander Lisianoi <[removido]>
+Vitaliy Terziev <[removido]>
+Joe Trumbull <[removido]>
+Alexander K <[removido]>
+Damian Senn <[removido]>
+Ralin Chimev <[removido]>
+Felipe Sateler <[removido]>
+Christophe Tafani-Dereeper <[removido]>
+Manoj Kumar <[removido]>
+David Broder-Rodgers <[removido]>
+Alex Louden <[removido]>
+Alex Padilla <[removido]>
+南漂一卒 <[removido]>
+karan-96 <[removido]>
+Boom Lee <[removido]>
+Andreas Solleder <[removido]>
+CDAGaming <[removido]>
+Pierre Spring <[removido]>
+Shashanka Nataraj <[removido]>
+Erik Lax <[removido]>
+Matan Kotler-Berkowitz <[removido]>
+Jordan Beland <[removido]>
+Henry Zhu <[removido]>
+Saptak Sengupta <[removido]>
+Nilton Cesar <[removido]>
+basil.belokon <[removido]>
+tmybr11 <[removido]>
+Luis Emilio Velasco Sanchez <[removido]>
+Ed S <[removido]>
+Bert Zhang <[removido]>
+Andrei Fangli <[removido]>
+Marja Hölttä <[removido]>
+abnud1 <[removido]>
+buddh4 <[removido]>

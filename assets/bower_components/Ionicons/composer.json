@@ -1,0 +1,36 @@
+{
+    "name": "driftyco/ionicons",
+    "license": [
+        "MIT"
+    ],
+    "extra": {},
+    "authors": [
+        {
+            "homepage": "[removido]",
+            "role": "Designer",
+            "name": "Ben Sperry",
+            "email": "[removido]"
+        },
+        {
+            "homepage": "[removido]",
+            "role": "Developer",
+            "name": "Adam Bradley",
+            "email": "[removido]"
+        },
+        {
+            "homepage": "[removido]",
+            "role": "Developer",
+            "name": "Max Lynch",
+            "email": "[removido]"
+        }
+    ],
+    "keywords": [
+        "fonts",
+        "icon font",
+        "icons",
+        "ionic",
+        "web font"
+    ],
+    "homepage": "http://ionicons.com/",
+    "description": "The premium icon font for Ionic Framework."
+}

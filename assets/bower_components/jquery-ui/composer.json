@@ -1,0 +1,69 @@
+{
+    "name": "components/jqueryui",
+    "type": "component",
+    "description": "jQuery UI is a curated set of user interface interactions, effects, widgets, and themes built on top of the jQuery JavaScript Library. Whether you're building highly interactive web applications or you just need to add a date picker to a form control, jQuery UI is the perfect choice.",
+    "license": "MIT",
+    "require": {
+        "components/jquery": ">=1.6"
+    },
+    "authors": [
+        {
+            "name": "jQuery UI Team",
+            "homepage": "http://jqueryui.com/about"
+        },
+        {
+            "name": "Scott Gonzalez",
+            "email": "[removido]",
+            "homepage": "http://scottgonzalez.com"
+        },
+        {
+            "name": "Joern Zaefferer",
+            "email": "[removido]",
+            "homepage": "http://bassistance.de"
+        },
+        {
+            "name": "Kris Borchers",
+            "email": "[removido]",
+            "homepage": "http://krisborchers.com"
+        },
+        {
+            "name": "Corey Frang",
+            "email": "[removido]",
+            "homepage": "http://gnarf.net"
+        },
+        {
+            "name": "Mike Sherov",
+            "email": "[removido]",
+            "homepage": "http://mike.sherov.com"
+        },
+        {
+            "name": "TJ VanToll",
+            "email": "[removido]",
+            "homepage": "http://tjvantoll.com"
+        },
+        {
+            "name": "Felix Nagel",
+            "email": "[removido]",
+            "homepage": "http://www.felixnagel.com"
+        }
+    ],
+    "extra": {
+        "component": {
+            "name": "jquery-ui",
+            "scripts": [
+                "jquery-ui.js"
+            ],
+            "files": [
+                "ui/**",
+                "themes/**",
+                "jquery-ui.min.js"
+            ],
+            "shim": {
+                "deps": [
+                    "jquery"
+                ],
+                "exports": "jQuery"
+            }
+        }
+    }
+}

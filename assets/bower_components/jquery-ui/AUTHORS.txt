@@ -1,0 +1,284 @@
+Authors ordered by first contribution
+A list of current team members is available at http://jqueryui.com/about
+
+Paul Bakaus <[removido]>
+Richard Worth <[removido]>
+Yehuda Katz <[removido]>
+Sean Catchpole <[removido]>
+John Resig <[removido]>
+Tane Piper <[removido]>
+Dmitri Gaskin <[removido]>
+Klaus Hartl <[removido]>
+Stefan Petre <[removido]>
+Gilles van den Hoven <[removido]>
+Micheil Bryan Smith <[removido]>
+Jörn Zaefferer <[removido]>
+Marc Grabanski <[removido]>
+Keith Wood <[removido]>
+Brandon Aaron <[removido]>
+Scott González <[removido]>
+Eduardo Lundgren <[removido]>
+Aaron Eisenberger <[removido]>
+Joan Piedra <[removido]>
+Bruno Basto <[removido]>
+Remy Sharp <[removido]>
+Bohdan Ganicky <[removido]>
+David Bolter <[removido]>
+Chi Cheng <[removido]>
+Ca-Phun Ung <[removido]>
+Ariel Flesler <[removido]>
+Maggie Wachs <[removido]>
+Scott Jehl <[removido]>
+Todd Parker <[removido]>
+Andrew Powell <[removido]>
+Brant Burnett <[removido]>
+Douglas Neiner <[removido]>
+Paul Irish <[removido]>
+Ralph Whitbeck <[removido]>
+Thibault Duplessis <[removido]>
+Dominique Vincent <[removido]>
+Jack Hsu <[removido]>
+Adam Sontag <[removido]>
+Carl Fürstenberg <[removido]>
+Kevin Dalman <[removido]>
+Alberto Fernández Capel <[removido]>
+Jacek Jędrzejewski (http://jacek.jedrzejewski.name)
+Ting Kuei <[removido]>
+Samuel Cormier-Iijima <[removido]>
+Jon Palmer <[removido]>
+Ben Hollis <[removido]>
+Justin MacCarthy <[removido]>
+Eyal Kobrigo <[removido]>
+Tiago Freire <[removido]>
+Diego Tres <[removido]>
+Holger Rüprich <[removido]>
+Ziling Zhao <[removido]>
+Mike Alsup <[removido]>
+Robson Braga Araujo <[removido]>
+Pierre-Henri Ausseil <[removido]>
+Christopher McCulloh <[removido]>
+Andrew Newcomb <[removido]>
+Lim Chee Aun <[removido]>
+Jorge Barreiro <[removido]>
+Daniel Steigerwald <[removido]>
+John Firebaugh <[removido]>
+John Enters <[removido]>
+Andrey Kapitcyn <[removido]>
+Dmitry Petrov <[removido]>
+Eric Hynds <[removido]>
+Chairat Sunthornwiphat <[removido]>
+Josh Varner <[removido]>
+Stéphane Raimbault <[removido]>
+Jay Merrifield <[removido]>
+J. Ryan Stinnett <[removido]>
+Peter Heiberg <[removido]>
+Alex Dovenmuehle <[removido]>
+Jamie Gegerson <[removido]>
+Raymond Schwartz <[removido]>
+Phillip Barnes <[removido]>
+Kyle Wilkinson <[removido]>
+Khaled AlHourani <[removido]>
+Marian Rudzynski <[removido]>
+Jean-Francois Remy <[removido]>
+Doug Blood
+Filippo Cavallarin <[removido]>
+Heiko Henning <[removido]>
+Aliaksandr Rahalevich <[removido]>
+Mario Visic <[removido]>
+Xavi Ramirez <[removido]>
+Max Schnur <[removido]>
+Saji Nediyanchath <[removido]>
+Corey Frang <[removido]>
+Aaron Peterson <[removido]>
+Ivan Peters <[removido]>
+Mohamed Cherif Bouchelaghem <[removido]>
+Marcos Sousa <[removido]>
+Michael DellaNoce <[removido]>
+George Marshall <[removido]>
+Tobias Brunner <[removido]>
+Martin Solli <[removido]>
+David Petersen <[removido]>
+Dan Heberden <[removido]>
+William Kevin Manire <[removido]>
+Gilmore Davidson <[removido]>
+Michael Wu <[removido]>
+Adam Parod <[removido]>
+Guillaume Gautreau <[removido]>
+Marcel Toele <[removido]>
+Dan Streetman <[removido]>
+Matt Hoskins <[removido]>
+Giovanni Giacobbi <[removido]>
+Kyle Florence <[removido]>
+Pavol Hluchý <[removido]>
+Hans Hillen <[removido]>
+Mark Johnson <[removido]>
+Trey Hunner <[removido]>
+Shane Whittet <[removido]>
+Edward A Faulkner <[removido]>
+Adam Baratz <[removido]>
+Kato Kazuyoshi <[removido]>
+Eike Send <[removido]>
+Kris Borchers <[removido]>
+Eddie Monge <[removido]>
+Israel Tsadok <[removido]>
+Carson McDonald <[removido]>
+Jason Davies <[removido]>
+Garrison Locke <[removido]>
+David Murdoch <[removido]>
+Benjamin Scott Boyle <[removido]>
+Jesse Baird <[removido]>
+Jonathan Vingiano <[removido]>
+Dylan Just <[removido]>
+Hiroshi Tomita <[removido]>
+Glenn Goodrich <[removido]>
+Tarafder Ashek-E-Elahi <[removido]>
+Ryan Neufeld <[removido]>
+Marc Neuwirth <[removido]>
+Philip Graham <[removido]>
+Benjamin Sterling <[removido]>
+Wesley Walser <[removido]>
+Kouhei Sutou <[removido]>
+Karl Kirch <[removido]>
+Chris Kelly <[removido]>
+Jay Oster <[removido]>
+Alexander Polomoshnov <[removido]>
+David Leal <[removido]>
+Igor Milla <[removido]>
+Dave Methvin <[removido]>
+Florian Gutmann <[removido]>
+Marwan Al Jubeh <[removido]>
+Milan Broum <[removido]>
+Sebastian Sauer <[removido]>
+Gaëtan Muller <[removido]>
+William Griffiths <[removido]>
+Stojce Slavkovski <[removido]>
+David Soms <[removido]>
+David De Sloovere <[removido]>
+Michael P. Jung <[removido]>
+Shannon Pekary <[removido]>
+Matthew Edward Hutton <[removido]>
+James Khoury <[removido]>
+Rob Loach <[removido]>
+Alberto Monteiro <[removido]>
+Alex Rhea <[removido]>
+Krzysztof Rosiński <[removido]>
+Ryan Olton <[removido]>
+Genie <[removido]>
+Rick Waldron <[removido]>
+Ian Simpson <[removido]>
+Lev Kitsis <[removido]>
+TJ VanToll <[removido]>
+Justin Domnitz <[removido]>
+Douglas Cerna <[removido]>
+Bert ter Heide <[removido]>
+Jasvir Nagra <[removido]>
+Yuriy Khabarov <[removido]>
+Harri Kilpiö <[removido]>
+Lado Lomidze <[removido]>
+Amir E. Aharoni <[removido]>
+Simon Sattes <[removido]>
+Jo Liss <[removido]>
+Guntupalli Karunakar <[removido]>
+Shahyar Ghobadpour <[removido]>
+Lukasz Lipinski <[removido]>
+Timo Tijhof <[removido]>
+Jason Moon <[removido]>
+Martin Frost <[removido]>
+Eneko Illarramendi <[removido]>
+EungJun Yi <[removido]>
+Courtland Allen <[removido]>
+Viktar Varvanovich <[removido]>
+Danny Trunk <[removido]>
+Pavel Stetina <[removido]>
+Michael Stay <[removido]>
+Steven Roussey <[removido]>
+Michael Hollis <[removido]>
+Lee Rowlands <[removido]>
+Timmy Willison <[removido]>
+Karl Swedberg <[removido]>
+Baoju Yuan <[removido]>
+Maciej Mroziński <[removido]>
+Luis Dalmolin <[removido]>
+Mark Aaron Shirley <[removido]>
+Martin Hoch <[removido]>
+Jiayi Yang <[removido]>
+Philipp Benjamin Köppchen <[removido]>
+Sindre Sorhus <[removido]>
+Bernhard Sirlinger <[removido]>
+Jared A. Scheel <[removido]>
+Rafael Xavier de Souza <[removido]>
+John Chen <[removido]>
+Dale Kocian <[removido]>
+Mike Sherov <[removido]>
+Andrew Couch <[removido]>
+Marc-Andre Lafortune <[removido]>
+Nate Eagle <[removido]>
+David Souther <[removido]>
+Mathias Stenbom <[removido]>
+Sergey Kartashov <[removido]>
+Avinash R <[removido]>
+Ethan Romba <[removido]>
+Cory Gackenheimer <[removido]>
+Juan Pablo Kaniefsky <[removido]>
+Roman Salnikov <[removido]>
+Anika Henke <[removido]>
+Samuel Bovée <[removido]>
+Fabrício Matté <[removido]>
+Viktor Kojouharov <[removido]>
+Pawel Maruszczyk (http://hrabstwo.net)
+Pavel Selitskas <[removido]>
+Bjørn Johansen <[removido]>
+Matthieu Penant <[removido]>
+Dominic Barnes <[removido]>
+David Sullivan <[removido]>
+Thomas Jaggi <[removido]>
+Vahid Sohrabloo <[removido]>
+Travis Carden <[removido]>
+Bruno M. Custódio <[removido]>
+Nathanael Silverman <[removido]>
+Christian Wenz <[removido]>
+Steve Urmston <[removido]>
+Zaven Muradyan <[removido]>
+Woody Gilk <[removido]>
+Zbigniew Motyka <[removido]>
+Suhail Alkowaileet <[removido]>
+Toshi MARUYAMA <[removido]>
+David Hansen <[removido]>
+Brian Grinstead <[removido]>
+Christian Klammer <[removido]>
+Steven Luscher <[removido]>
+Gan Eng Chin <[removido]>
+Gabriel Schulhof <[removido]>
+Alexander Schmitz <[removido]>
+Vilhjálmur Skúlason <[removido]>
+Siebrand Mazeland <[removido]>
+Mohsen Ekhtiari <[removido]>
+Pere Orga <[removido]>
+Jasper de Groot <[removido]>
+Stephane Deschamps <[removido]>
+Jyoti Deka <[removido]>
+Andrei Picus <[removido]>
+Ondrej Novy <[removido]>
+Jacob McCutcheon <[removido]>
+Monika Piotrowicz <[removido]>
+Imants Horsts <[removido]>
+Eric Dahl <[removido]>
+Dave Stein <[removido]>
+Dylan Barrell <[removido]>
+Daniel DeGroff <[removido]>
+Michael Wiencek <[removido]>
+Thomas Meyer <[removido]>
+Ruslan Yakhyaev <[removido]>
+Brian J. Dowling <[removido]>
+Ben Higgins <[removido]>
+Yermo Lamers <[removido]>
+Patrick Stapleton <[removido]>
+Trisha Crowley <[removido]>
+Usman Akeju <[removido]>
+Rodrigo Menezes <[removido]>
+Jacques Perrault <[removido]>
+Frederik Elvhage <[removido]>
+Will Holley <[removido]>
+Uri Gilad <[removido]>
+Richard Gibson <[removido]>
+Simen Bekkhus <[removido]>
